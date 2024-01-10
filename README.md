@@ -3,7 +3,7 @@ This database was created as the final project for the Database 1 course.
 The database was designed for a fictional retail company I created called FitToWin.
 FitToWin specializes in fitness equipment, snacks, and clothing for runners.
 The database includes the tables and relations in the following image.
-An unfilled circle indicates an optionality. A solid line indicates a strong relationship. A dashes line indicates a weak relationship.
+An unfilled circle indicates an optionality. A solid line indicates a strong relationship. A dashed line indicates a weak relationship.
 
 ![alt text](https://github.com/SuperLan11/sql_FitToWin/blob/main/FitToWin_ERD.png?raw=true)
 
