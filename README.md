@@ -1,6 +1,6 @@
 ## Project Background
 This database was created for a fictional retail company I created called FitToWin.
-FitToWin sells fitness equipment, snacks, and clothing.
+FitToWin specializes in fitness equipment, snacks, and clothing for runners.
 The database includes the tables and relations in the following image.
 
 ![alt text](https://github.com/SuperLan11/sql_FitToWin/blob/main/FitToWin_ERD.png?raw=true)
