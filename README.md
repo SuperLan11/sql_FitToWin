@@ -1,5 +1,6 @@
 ## Project Background
-This database was created for a fictional retail company I created called FitToWin.
+This database was created as the final project for the Database 1 course.
+The database was designed for a fictional retail company I created called FitToWin.
 FitToWin specializes in fitness equipment, snacks, and clothing for runners.
 The database includes the tables and relations in the following image.
 
