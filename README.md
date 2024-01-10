@@ -4,6 +4,7 @@ The database was designed for a fictional retail company I created called FitToW
 FitToWin specializes in fitness equipment, snacks, and clothing for runners.
 The database includes the tables and relations in the following image.
 An unfilled circle indicates an optionality. A solid line indicates a strong relationship. A dashed line indicates a weak relationship.
+The two lines under the circle near the bottom of the image indicate a parent child relationship.
 
 ![alt text](https://github.com/SuperLan11/sql_FitToWin/blob/main/FitToWin_ERD.png?raw=true)
 
