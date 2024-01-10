@@ -3,6 +3,8 @@ This database was created for a fictional retail company I created called FitToW
 FitToWin sells fitness equipment, snacks, and clothing.
 The database includes the tables and relations in the following image.
 
+![picture alt](https://github.com/SuperLan11/sql_FitToWin/blob/master/FitToWin_ERD.png)
+
 ## How to Use the Project
 To use the database, you need an application that runs MySQL, such as MySQL Workbench.
 After downloading the sql file, open your MySQL application and connect to your server (assuming you have a server connection established).
